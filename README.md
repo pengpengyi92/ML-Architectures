@@ -1,6 +1,9 @@
 
 # 🧠 ML-Architectures
 
+
+![image](https://github.com/user-attachments/assets/a8d4aa8e-49ed-4b50-b802-ac73442c51b5)
+
 **ML-Architectures** is a structured knowledge project designed to deeply explain how classic machine learning models work — from their internal mathematical structures, loss functions, optimization processes, to complete training pipelines.
 
 This project helps you understand:
